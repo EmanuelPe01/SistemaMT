@@ -1,0 +1,13 @@
+C:\Users\emanu\source\repos\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\emanu\source\repos\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\source\repos\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\emanu\source\repos\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\emanu\source\repos\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\emanu\source\repos\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\emanu\source\repos\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\emanu\source\repos\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\emanu\source\repos\Domain\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\emanu\source\repos\Domain\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\emanu\source\repos\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CopyComplete
+C:\Users\emanu\source\repos\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\emanu\source\repos\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

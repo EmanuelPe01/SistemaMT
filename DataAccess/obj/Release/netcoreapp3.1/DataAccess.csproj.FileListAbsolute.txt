@@ -1,0 +1,10 @@
+C:\Users\emanu\source\repos\DataAccess\bin\Release\netcoreapp3.1\DataAccess.deps.json
+C:\Users\emanu\source\repos\DataAccess\bin\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\emanu\source\repos\DataAccess\bin\Release\netcoreapp3.1\DataAccess.pdb
+C:\Users\emanu\source\repos\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\emanu\source\repos\DataAccess\obj\Release\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\source\repos\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\emanu\source\repos\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\emanu\source\repos\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\emanu\source\repos\DataAccess\obj\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\emanu\source\repos\DataAccess\obj\Release\netcoreapp3.1\DataAccess.pdb
