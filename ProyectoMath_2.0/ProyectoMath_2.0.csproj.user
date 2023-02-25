@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\emanu\source\repos\ProyectoMath_2.0\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Forms\Alumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ComponentsNoAdmin\AdminClasesNA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ComponentsPagos\AdminClases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ComponentsPagos\AdminPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ComponentsPagos\ModInscripcion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ComponentsPagos\NewInscripcion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CrudAlumnos\NewRegAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CrudProfesor\NewRegProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Ingresos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Modificaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pagos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Profesores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inicio_admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
